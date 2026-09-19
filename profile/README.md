@@ -26,8 +26,13 @@ RCS and SMS fallback, delivery and read receipts, typing indicators, reactions, 
 
 ## Repositories
 
-- [bluereacher-openapi](https://github.com/Blue-Reacher/bluereacher-openapi) — the public OpenAPI spec and a browsable reference.
-- [sms-segments](https://github.com/Blue-Reacher/sms-segments) — accurate SMS segment counting for GSM-7 and UCS-2, zero dependencies.
+- [bluereacher-openapi](https://github.com/Blue-Reacher/bluereacher-openapi) - the public OpenAPI spec and a browsable reference.
+- [bluereacher-node](https://github.com/Blue-Reacher/bluereacher-node) - official TypeScript SDK, fetch based and fully typed.
+- [bluereacher-python](https://github.com/Blue-Reacher/bluereacher-python) - official Python client with type hints, built on httpx.
+- [bluereacher-cli](https://github.com/Blue-Reacher/bluereacher-cli) - send iMessage from your terminal, zero dependencies.
+- [bluereacher-mcp](https://github.com/Blue-Reacher/bluereacher-mcp) - Model Context Protocol server so AI agents can send iMessage and read replies.
+- [bluereacher-examples](https://github.com/Blue-Reacher/bluereacher-examples) - runnable agent recipes: lead reactivation, booking reminders, and an AI coding agent iMessage channel.
+- [sms-segments](https://github.com/Blue-Reacher/sms-segments) - accurate SMS segment counting for GSM-7 and UCS-2, zero dependencies.
 
 ## For AI agents
 
